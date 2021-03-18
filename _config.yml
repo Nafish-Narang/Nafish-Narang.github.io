@@ -11,11 +11,11 @@ github_repo: "https://github.com/Nafish-Narang/Nafish-Narang.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我是专注于探究人性心理和
-科技人文的个人工作者纳鱼。
-知识中蕴藏着力量，如何将
-它发掘出来，亦是一场旅程。
-(－‸ლ) 
+sidebar-about-description: "我是专注于探究人性心理和<br>
+科技人文的个人工作者纳鱼。<br>
+知识中蕴藏着力量，如何将<br>
+它发掘出来，亦是一场旅程。<br>
+(－‸ლ) <br>
 欲发掘更多功能，请查看资源。"
 sidebar-avatar: /img/BT-2.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
