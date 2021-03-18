@@ -11,9 +11,10 @@ github_repo: "https://github.com/Nafish-Narang/Nafish-Narang.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我是专注于探究人性心理和<br>
-科技人文的个人工作者纳鱼。<br>
-知识中蕴藏着力量，如何将<br>
+sidebar-about-description: "  我是专注于探究人性心理<br>
+和科技人文的个人工作者纳  <br>
+鱼。<br>
+知识中蕴藏着力量，如何将  <br>
 它发掘出来，亦是一场旅程。<br>
 (－‸ლ) <br>
 欲发掘更多功能，请查看资源。"
