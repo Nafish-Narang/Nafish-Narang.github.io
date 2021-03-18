@@ -1,13 +1,13 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: 纳鱼之家
+SEOTitle: 纳鱼之家 - 分享知识与快乐
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+email: bill-narang@outlook.com
+description: "世事洞明皆学问，人情达练即文章"
+keyword: "纳鱼, 纳兰, Nafish, 星空, 星境挽歌"
+url: "https://Nafish-Narang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/Nafish-Narang/Nafish-Narang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-# github_username:    qiubaiying
-# facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+# weibo_username:     纳兰纳鱼
+# zhihu_username:     纳兰醉歌
+# github_username:    Nafish-Narang
+# facebook_username:  NA
+# jianshu_username:   NA
+# twitter_username:   NA
 
 
 
